@@ -1,3 +1,5 @@
+# Importing required libraries
+
 from twilio.rest import Client
 import random
 from tkinter import *
